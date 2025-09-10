@@ -17,4 +17,4 @@ A modern, responsive personal portfolio website to showcase my work, skills, and
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/portfolio.git
+   https://github.com/ynguyen0/portfolio.git
